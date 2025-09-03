@@ -46,7 +46,7 @@ graph TB
     E --> E2[Top-5 Recommendations]
     E --> E3[Confidence Scoring]
     
-    F --> F1[MAP@5 Evaluation]
+    F --> F1[MAP5 Evaluation]
     F --> F2[Cross-Validation]
     F --> F3[Performance Metrics]
 ```
